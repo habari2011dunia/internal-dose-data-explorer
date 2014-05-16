@@ -304,7 +304,6 @@ HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,BBseq.t,LNTH.t,0.01
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ETseq.t,LNET.t,0.001
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ET2.t,GI.Tract,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ET1.t,Environment,1
-HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,ET1.i,Blood,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,ET2.i,Blood,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,ETseq.i,Blood,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,BB1.i,Blood,100
@@ -318,7 +317,6 @@ HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,AI2.i,Blood,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,AI3.i,Blood,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,LNET.i,Blood,100
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.F,LNTH.i,Blood,100
-HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,ET1.i,Blood,10
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,ET2.i,Blood,10
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,ETseq.i,Blood,10
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,BB1.i,Blood,10
@@ -332,7 +330,6 @@ HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,AI2.i,Blood,10
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,AI3.i,Blood,10
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,LNET.i,Blood,10
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,LNTH.i,Blood,10
-HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ET1.i,Blood,0.1
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ET2.i,Blood,0.1
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ETseq.i,Blood,0.1
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,BB1.i,Blood,0.1
@@ -346,7 +343,6 @@ HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,AI2.i,Blood,0.1
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,AI3.i,Blood,0.1
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,LNET.i,Blood,0.1
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,LNTH.i,Blood,0.1
-HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,ET1.t,Blood,0.005
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,ET2.t,Blood,0.005
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,ETseq.t,Blood,0.005
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,BB1.t,Blood,0.005
@@ -370,7 +366,6 @@ HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,AI2.i,AI2.t,90
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,AI3.i,AI3.t,90
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,LNET.i,LNET.t,90
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.M,LNTH.i,LNTH.t,90
-HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ET1.t,Blood,1e-04
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ET2.t,Blood,1e-04
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,ETseq.t,Blood,1e-04
 HRTM,ICRP.publ.66,1994,All,All,All,Inh,Aerosol.Type.S,BB1.t,Blood,1e-04
