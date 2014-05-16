@@ -1,7 +1,7 @@
 ﻿Internal Dose Data Explorer
 概要:     内部被曝関連データとグラフを表示するShinyアプリ[参考3]
 作者:     habari2011dunia
-最終更新: 2013年11月21日
+最終更新: 2014年5月16日
 twitter:  https://twitter.com/habari2011dunia
 E-mail:   habari2011dunia@gmail.com
 GitHub:   https://github.com/habari2011dunia
